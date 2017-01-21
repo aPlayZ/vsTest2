@@ -7,7 +7,7 @@
 
 int main()
 {
-	std::cout << "f" << endl;
+	std::cout << "f" << std::endl;
     return 0;
 }
 
